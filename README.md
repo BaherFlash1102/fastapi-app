@@ -1,1 +1,1 @@
-# fastapi-app
+![App Preview](preview.png)
